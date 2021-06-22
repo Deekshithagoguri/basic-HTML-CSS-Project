@@ -1,0 +1,82 @@
+#xyz{
+	text-align:center;
+	font-family: serif;
+	font-size:25px;
+
+}
+#abc{
+	text-align: center;
+	
+	
+}
+#xyz{
+	margin-top: 0px;
+}
+#pinky {
+    position: absolute;
+    left: 23px;
+    width: 200px;
+
+}
+#bubby{
+	position: absolute;
+    left: 323px;
+    width: 200px;
+}
+#tittu{
+	    position: absolute;
+    left: 631px;
+    width: 200px;
+
+}
+#chinna{
+    position: absolute;
+    width: 200px;
+    left: 976px;
+
+}
+
+#abc{
+	
+}
+h3{
+	color:grey;
+}
+img{display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 400px;
+	
+
+}
+
+
+h1{    position: absolute;
+    left: 650px;
+    top: 287px;
+}
+.info{
+
+	font-family:sans-serif;
+}
+img:after{
+	background: url("lapiwallp.jpg");
+	position: absolute;
+	top:0px;
+	left:0px;
+	opacity: 0.2;
+}#b{
+	position: absolute;
+	opacity: 0.2;
+	
+    top: -100px;
+	width: 100%;
+	height: 120%;
+}
+
+
+
+	
+
+	
